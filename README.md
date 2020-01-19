@@ -1,1 +1,3 @@
-# Udacity-DLND-TV-Scripts
+# Udacity
+
+Deep Learning Project: Generate TV Scripts
